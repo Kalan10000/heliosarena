@@ -1,0 +1,6 @@
+{
+  "name": "Helios Arena",
+  "description": "Multiplayer 3D physics knockout arena built with Three.js, Cannon.js, and P2P WebRTC with live room discovery and static GitHub Pages + Vercel hosting support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
